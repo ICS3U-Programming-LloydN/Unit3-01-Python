@@ -30,7 +30,7 @@ jobs:
 
      
 
-         # run Prettier and change code that needs fixing, before next section
+        # run Prettier and change code that needs fixing, before next section
 
          prettier_options: --write **/*.{html,css,js,ts,jsx,tsx,json}
 
